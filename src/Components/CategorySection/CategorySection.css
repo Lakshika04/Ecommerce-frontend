@@ -1,0 +1,14 @@
+.category-section{
+  margin: 40px 170px;
+}
+
+.category-section h2{
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.category-items{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 40px;
+}
